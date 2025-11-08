@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/veterinaria-cerca-de",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a veterinaria-cerca-de",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/veterinaria-cerca-de.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://mejorhistoria.com/veterinaria-cerca-de-mi/"
+    },
+    "homepage": "https://mejorhistoria.com/veterinaria-cerca-de-mi/"
+}
